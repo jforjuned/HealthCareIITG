@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(123, 137, 184);
+}
+.white {
+background-color: white;
+position: absolute;
+top: 15%;
+left: 30%;
+width: 30%; 
+margin-bottom: 30%;
+}
+.first{
+    text-align: center;
+   font-size: 50px;
+}
+.w3-input{
+  width: 50%;
+  margin-left: 37px;
+padding-right: 37px;
+margin-bottom: 19px;
+margin-top: 6px;
+padding-top: 10px;
+padding-bottom: 9px;
+font-weight: 30px;
+border-radius: 5px;
+}
+.w3-output{
+    width: 50%;
+    margin-left: 37px;
+padding-right: 37px;
+margin-bottom: 19px;
+margin-top: 6px;
+padding-top: 10px;
+padding-bottom: 9px;
+font-weight: 30px;
+border-radius: 5px;
+}
+.modal-content{
+    margin-left: 37px;
+}
+.w3-button{
+    width: 55%;
+    margin-left: 37px;
+    padding-right: 21px;
+    margin-bottom: 19px;
+    margin-top: 6px;
+    padding-top: 1px;
+    padding-bottom: 7px;
+    font-size: 30px;
+    border-radius: 10px;
+    background-color: indigo;
+    cursor: pointer;
+}
+.w3-container{
+
+}
+.second{
+    margin-left: 47%;
+font-size: 17px;
+color: rgb(230, 92, 121);
+}
